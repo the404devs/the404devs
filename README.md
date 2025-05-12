@@ -4,4 +4,4 @@
 # Hello there!
 https://the404.nl/
 
-[![the404's GitHub stats](https://github-readme-stats.vercel.app/api?username=the404devs&show_icons=true&count_private=true&theme=omni)](https://the404.nl)
+[![the404's GitHub stats](https://github-readme-stats.vercel.app/api?username=the404devs&show_icons=true&count_private=true&theme=transparent)](https://the404.nl)
